@@ -9,8 +9,6 @@ This is my **awesome** web page!
 
 [Download image](https://github.com/eculler/example-page/releases/download/test-tag/Denver_skyline.jpg)
 
-![Denver Skyline](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Denver_skyline.jpg/960px-Denver_skyline.jpg)
-
 My interests:
 
 * Fly fishing
