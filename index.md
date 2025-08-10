@@ -21,4 +21,4 @@ Best restaurants in Denver:
 
 My projects:
 
-* [My first quarto notebook](first-quarto.qmd)
+* [My first quarto notebook](first-quarto.html)
