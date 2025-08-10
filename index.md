@@ -13,7 +13,6 @@ This is my **awesome** web page!
 
 My interests:
 
-* Fly fishing
 * Reading
 * Dancing
 
