@@ -3,10 +3,12 @@
 This is my **awesome** web page!
 
 <img 
-  src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Denver_skyline.jpg/960px-Denver_skyline.jpg"
+  src="images/Denver_skyline.jpg"
   alt="Denver Skyline" 
   width="25%">
-  
+
+[Download image](https://github.com/eculler/example-page/releases/download/test-tag/Denver_skyline.jpg)
+
 ![Denver Skyline](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Denver_skyline.jpg/960px-Denver_skyline.jpg)
 
 My interests:
