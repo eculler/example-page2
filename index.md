@@ -19,3 +19,6 @@ Best restaurants in Denver:
 1. [Ash'Kara](https://www.ashkaradenver.com/)
 2. Something else
 
+My projects:
+
+* [My first quarto notebook](first-quarto.qmd)
